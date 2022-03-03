@@ -1,4 +1,4 @@
-# ml-tasks
+# Machine Learning Tasks
 A repository for machine learning course in sbe department
 
 ## Task 1: Introduction to machine learning and sklearn
