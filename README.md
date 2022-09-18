@@ -34,7 +34,7 @@ A repository for machine learning course in sbme department
 [![Download](https://img.shields.io/static/v1?label=notebook&message=download&color=green)](https://Mohamed-Ibrahim-01.github.io/ml-tasks/A6_PCA.ipynb)
 [![Preview](https://img.shields.io/static/v1?label=notebook&message=preview&color=orange)](https://github.com/Mohamed-Ibrahim-01/ml-tasks/blob/master/A6_PCA.ipynb)
 
-## Task 7: Implement Recommender System from scratch
+## Task 7: Implement Recommender System from scratch..
 
 
 
